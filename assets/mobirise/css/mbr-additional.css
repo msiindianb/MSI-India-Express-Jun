@@ -1221,11 +1221,6 @@ section.lazy-placeholder:after {
 .cid-rZj909RRiP P {
   color: #767676;
 }
-.cid-rZj9foGNKw {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-rZj9lbGxMk {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1346,7 +1341,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZj9P8ZO64 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background: linear-gradient(0deg, #232323, #232323);
 }
 .cid-rZj9P8ZO64 .mbr-iconfont-social {
@@ -1358,4 +1353,9 @@ section.lazy-placeholder:after {
 }
 .cid-rZj9P8ZO64 H2 {
   color: #ffffff;
+}
+.cid-rZj9foGNKw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
